@@ -25,6 +25,7 @@ starting point:
 - [SciPy tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
 - [Pandas tutorial](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 - [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
+- [Searborn tutotial](https://seaborn.pydata.org/tutorial.html)
 - [Scikit-learn tutorials](http://scikit-learn.org/stable/tutorial/index.html)
 
 ### Course exercises
