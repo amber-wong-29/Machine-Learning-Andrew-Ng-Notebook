@@ -1,7 +1,7 @@
 ## Machine learning notebooks
 
 This project contains solutions to the [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning) 
-course exercises implemented with [Python](https://www.python.org/) and [scikit-learn](http://scikit-learn.org/). The scikit-learn 
+course by Andres Ng exercises implemented with [Python](https://www.python.org/) and [scikit-learn](http://scikit-learn.org/). The scikit-learn 
 machine learning library provides optimized implementations for all algorithms presented in the course and needed in 
 the course exercises. Instead of writing low-level [Octave](https://www.gnu.org/software/octave/) code, as required by 
 the course, the solutions presented here demonstrate how to use scikit-learn to solve these exercises on a much higher 
